@@ -11,8 +11,8 @@ Helps in business decision-making and planning
 
 🛠 Tech Stack
 
-Power BI Desktop
-CSV Dataset (Sales Data)
+1.Power BI Desktop
+2.CSV Dataset (Sales Data)
 
 ---
 
